@@ -13,6 +13,7 @@
   /* bg-colors */
 
   --secondary: #272d37;
+  --button-gallery: rgb(5, 116, 252);
 
   /* Text colors */
   --text-gray: #adb9c7;
@@ -53,11 +54,4 @@ header {
 .logo {
   height: 190%;
   padding: 0px 0px 7px 0px;
-}
-
-.cart-icon {
-  height: 30px;
-  padding: 5px 10px;
-  cursor: pointer;
-  padding: 0px 0px 0px 15px;
 }
